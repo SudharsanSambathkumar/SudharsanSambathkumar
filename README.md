@@ -123,7 +123,7 @@ Specialization:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sudharsan1523">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
